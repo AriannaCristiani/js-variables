@@ -10,6 +10,16 @@ console.log ('Arianna')
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+let number = 12 //number
+console.log (12)
+
+
+let text = 'Ma che splendida giornata di sole oggi a Torino!' //text
+console.log (text)
+
+const boolean = 3 > 6; //booleano
+console.log(boolean);
+
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
 // in console la stringa con il nome completo
