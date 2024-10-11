@@ -2,6 +2,9 @@
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
 
+const name = 'Arianna'
+console.log ('Arianna')
+
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
