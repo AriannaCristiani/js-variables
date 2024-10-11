@@ -3,7 +3,7 @@
 // Stampa il valore di nome nella console.
 
 const name = 'Arianna'
-console.log ('Arianna')
+console.log (name)
 
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
@@ -11,7 +11,7 @@ console.log ('Arianna')
 // Stampa tutti i valori nella console.
 
 let number = 12 //number
-console.log (12)
+console.log (number)
 
 
 let text = 'Ma che splendida giornata di sole oggi a Torino!' //text
