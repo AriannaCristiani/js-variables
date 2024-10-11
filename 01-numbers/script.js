@@ -6,10 +6,8 @@ const numThree = 32; // NON MODIFICARE QUESTA RIGA
 // gli operatori numerici di Javascript
 
 // 1. Imposta questa variabile come somma di numOne e numTwo
-const numberA = 20;
-const numberB = 4;
 
-const somma = numberA + numberB ;
+const somma = numOne + numTwo ;
 console.log(somma); // Output: 24
 
 // 2. Imposta questa variabile come prodotto di numThree e numTwo
