@@ -12,16 +12,18 @@ console.log(somma); // Output: 24
 
 // 2. Imposta questa variabile come prodotto di numThree e numTwo
 
-const mol = numThree * numTwo
-console.log(mol); // Output: 512
+const moltiplicazione = numThree * numTwo
+console.log(moltiplicazione); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
-const numThreeDividedByNumOne = NaN;
-console.log(numThreeDividedByNumOne); // Output: 4
+
+const divisione = numThree / numOne;
+console.log(divisione); // Output: 4
 
 // 4. Imposta questa variabile come differenza tra numThree e numOne
-const numThreeMinusNumOne = NaN;
-console.log(numThreeMinusNumOne); // Output: 4
+
+const sottrazione = numThree - numOne;
+console.log(sottrazione); // Output: 24
 
 // 5. Imposta questa variabile come somma di numOne, numTwo e numThree
 const sum = NaN;
